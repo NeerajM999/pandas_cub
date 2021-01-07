@@ -1,0 +1,8 @@
+# conda env create -f environment.yml
+
+name: pandas_cub
+dependencies:
+- python=3.6
+- pandas
+- jupyter
+- pytest
